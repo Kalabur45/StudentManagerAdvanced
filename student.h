@@ -15,7 +15,6 @@ class student
                 
                 void setName(string, string);
                 string fullName();
-                
                 void addGrade(double);
                 double getScore();
                 
